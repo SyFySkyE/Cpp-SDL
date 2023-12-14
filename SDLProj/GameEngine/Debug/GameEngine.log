@@ -1,0 +1,16 @@
+﻿  Errors.cpp
+  GameEngine.cpp
+  GLSLProgram.cpp
+  ImageLoader.cpp
+  IOManager.cpp
+F:\Proj\VC\GraphicsTutorials\GameEngine\IOManager.cpp(19,16): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+F:\Proj\VC\GraphicsTutorials\GameEngine\IOManager.cpp(25,27): warning C4244: '-=': conversion from 'std::streamoff' to 'int', possible loss of data
+  picoPNG.cpp
+  ResourceManager.cpp
+  Sprite.cpp
+  TextureCache.cpp
+  Window.cpp
+  Generating Code...
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+  GameEngine.vcxproj -> F:\Proj\VC\GraphicsTutorials\Debug\GameEngine.lib
